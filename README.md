@@ -3,6 +3,9 @@
 
 ![N|Solid](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
 
+## PROGRAM IN ACTION!
+Watch Video here :- https://www.youtube.com/watch?v=E4MSnctPvSM
+
 You are allowed to freely modify, distribute & use this code as you wish.
 Make sure to modify the code according to your school, Board website.
 
