@@ -18,6 +18,7 @@ Make sure to modify the code according to your school, Board website.
 
 ## How to Use
 - Install Python.
+- Install selenium, Run > "pip install selenium" in CMD Prompt.
 - Clone the Code to your local machine.
 - Download and extract webdriver for your browser.
 - Set your Webdriver location in Line 70 of the Code.
