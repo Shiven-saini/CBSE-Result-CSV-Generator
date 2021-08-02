@@ -10,7 +10,7 @@ Make sure to modify the code according to your school, Board website.
 - Generate CSV File of the fetched Result.
 - Powered by Selenium Python.
 - ⚡⚡Lightning Fast⚡⚡
-- 
+ 
 ## PROGRAM IN ACTION!
 Watch Video here :- https://www.youtube.com/watch?v=E4MSnctPvSM
 
